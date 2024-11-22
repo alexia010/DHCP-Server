@@ -10,11 +10,11 @@
 #define GATEWAY "172.20.10.1"
 
 #define LEASE_TIME "3600"
-#define PEDDING_TIME "30"
+#define PENDING_TIME "30"
 #define RENEWAL_TIME  "1800"
 #define REBINDING_TIME "3000"
 
-#define DB_PATH "/home/larisa/Desktop/PSO_proiect/DHCP-Server/config2.db"
+#define DB_PATH "/home/daria/Desktop/DHCP-Server/dhcp_server/config2.db"
 
 
 #define MAX_NETWORKS 5
@@ -24,8 +24,6 @@
 
 
 static sqlite3 *db=NULL;
-
-
 
 struct server_configs
 {
@@ -55,6 +53,14 @@ void initialize_server(server_configs *s, char *server_ip, const char *netmask,
 
 int initialize_networks(network *n);
 
-
+address_binding *create_binding(uint32_t ip_address, uint8_t mac[16], int binding_status, bool static_status);
+bool verify_address_binding(uint32_t adresa_ip, queue* bindings);
+uint32_t find_free_ip(network *net);
+dhcp_packet* process_dhcp_discover(server_configs *server, dhcp_packet packet, network **net);
+bool renew_ip_address(server_configs *server, dhcp_packet packet, network **net, dhcp_option *options);
+bool confirm_ip_address(server_configs *server, dhcp_packet packet, network **net);
+bool confirm_static_ip(server_configs *server, dhcp_packet packet, network **net, uint32_t ip_address);
+bool decline_ip(server_configs *server, dhcp_packet packet, network **net);
+bool release_ip_address(server_configs *server, dhcp_packet packet, network **net);
 
 #endif

@@ -1,11 +1,11 @@
 #include "struct_client.h"
 
-struct node
+struct node_client
 {
-    struct node* next;
+    struct node_client* next;
     struct client_data *data;
 };
-typedef struct node node_t;
+typedef struct node_client node_t;
 
 void enqueue(struct client_data* client_socket);
 struct client_data* dequeue();

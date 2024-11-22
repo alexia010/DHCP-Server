@@ -15,7 +15,7 @@ node *create_node(void *value)
     return new_node;
 }
 
-int queeue_is_empty(queue *q)
+int queue_is_empty(queue *q)
 {
     if(q->head==NULL)
     {  
@@ -56,7 +56,7 @@ void *queue_dequeue(queue*q)
 {
     if(q->head==NULL)
     {
-        printf("empty queue");
+        printf("empty queue\n");
         return NULL;
     }
 

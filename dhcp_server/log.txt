@@ -1,0 +1,779 @@
+[2024-11-21 19:12:07] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:12:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:12:35] [INFO] (main) DHCP request received!
+[2024-11-21 19:12:35] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:14:46] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:14:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:14:50] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:14:50] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:14:59] [INFO] (main) DHCP request received!
+[2024-11-21 19:14:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:15:19] [INFO] (main) DHCP request received!
+[2024-11-21 19:15:20] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:16:17] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:16:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:17:09] [INFO] (main) DHCP request received!
+[2024-11-21 19:17:09] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:18:07] [INFO] (main) DHCP request received!
+[2024-11-21 19:18:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:19:46] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:19:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:19:49] [INFO] (main) DHCP request received!
+[2024-11-21 19:19:49] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:20:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:20:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:20:32] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:21:30] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:21:30] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:21:36] [INFO] (main) DHCP request received!
+[2024-11-21 19:21:36] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:21:41] [INFO] (main) DHCP request received!
+[2024-11-21 19:21:41] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:21:41] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:22:26] [INFO] (main) DHCP request received!
+[2024-11-21 19:22:26] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:22:26] [INFO] (main) DHCP request received!
+[2024-11-21 19:22:26] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:22:26] [INFO] (main) DHCP request received!
+[2024-11-21 19:22:26] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:22:26] [INFO] (main) DHCP request received!
+[2024-11-21 19:22:26] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:22:26] [INFO] (main) DHCP request received!
+[2024-11-21 19:22:26] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:22:26] [INFO] (main) DHCP request received!
+[2024-11-21 19:22:26] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:04] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:23:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:14] [INFO] (main) DHCP request received!
+[2024-11-21 19:23:14] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:14] [INFO] (main) DHCP request received!
+[2024-11-21 19:23:14] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:23:14] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:22] [INFO] (main) DHCP request received!
+[2024-11-21 19:23:22] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:22] [INFO] (main) DHCP request received!
+[2024-11-21 19:23:22] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:22] [INFO] (main) DHCP request received!
+[2024-11-21 19:23:22] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:22] [INFO] (main) DHCP request received!
+[2024-11-21 19:23:22] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:22] [INFO] (main) DHCP request received!
+[2024-11-21 19:23:22] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:23:22] [INFO] (main) DHCP request received!
+[2024-11-21 19:23:22] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:29:55] [INFO] (main) DHCP request received!
+[2024-11-21 19:29:55] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:31:12] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:31:12] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:31:18] [INFO] (main) DHCP request received!
+[2024-11-21 19:31:18] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:31:33] [INFO] (main) DHCP request received!
+[2024-11-21 19:31:33] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:31:37] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:31:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:31:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:34:33] [INFO] (main) DHCP request received!
+[2024-11-21 19:34:33] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:12] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:12] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:26] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:26] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:40] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:35:40] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:50] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:50] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:50] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:50] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:35:50] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:52] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:52] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:52] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:52] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:52] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:52] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:53] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:53] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:53] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:53] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:53] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:53] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:53] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:53] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:35:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:35:54] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:00] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:00] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:00] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:00] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:00] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:00] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:00] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:00] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:00] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:00] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:01] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:01] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:01] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:02] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:03] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:03] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:03] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:03] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:03] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:03] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:03] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:03] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:03] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:04] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:04] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:05] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:05] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:05] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:05] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:05] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:06] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:06] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:06] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:06] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:06] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:07] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:07] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:07] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:07] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:07] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:07] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:07] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:09] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:09] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:09] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:09] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:09] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:09] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:09] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:09] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:09] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:10] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:10] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:10] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:10] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:10] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:11] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:11] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:11] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:11] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:11] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:12] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:12] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:12] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:12] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:12] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:12] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:12] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:12] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:12] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:13] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:13] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:13] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:13] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:13] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:13] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:13] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:13] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:13] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:13] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:13] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:13] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:13] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:14] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:14] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:14] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:14] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:14] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:15] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:15] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:15] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:15] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:15] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:15] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:15] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:15] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:15] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:36:16] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:16] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:16] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:16] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:16] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:16] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:16] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:16] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:16] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:16] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:16] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:16] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:17] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:17] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:17] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:17] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:17] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:17] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:18] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:18] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:18] [INFO] (main) DHCP request received!
+[2024-11-21 19:36:18] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:36:18] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:37:39] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:37:39] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:38:19] [INFO] (main) DHCP request received!
+[2024-11-21 19:38:19] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:38:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:38:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:39:18] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:39:32] [INFO] (main) DHCP request received!
+[2024-11-21 19:39:32] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:42:18] [INFO] (main) DHCP request received!
+[2024-11-21 19:42:18] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:42:34] [INFO] (main) DHCP request received!
+[2024-11-21 19:42:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:42:48] [INFO] (main) DHCP request received!
+[2024-11-21 19:42:48] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:43:03] [INFO] (main) DHCP request received!
+[2024-11-21 19:43:03] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:43:14] [INFO] (main) DHCP request received!
+[2024-11-21 19:43:14] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:43:30] [INFO] (main) DHCP request received!
+[2024-11-21 19:43:30] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:44:47] [INFO] (main) DHCP request received!
+[2024-11-21 19:44:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:45:46] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 19:45:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:18] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:18] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:18] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:18] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:18] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:46:20] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:20] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:20] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:20] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:20] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:20] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:20] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:20] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:20] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:20] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:20] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:20] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:34] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:34] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:34] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:34] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:34] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:34] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:36] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:36] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:36] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:36] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:36] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:36] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:36] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:36] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:36] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:46:41] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:41] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:41] [INFO] (main) DHCP request received!
+[2024-11-21 19:46:41] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:46:41] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:47:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:54] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:54] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:47:55] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:55] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:55] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:55] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:55] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:47:56] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:56] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:56] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:56] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:47:56] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:57] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:57] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:57] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:57] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:57] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:47:57] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:57] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:57] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:58] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:58] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:58] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:47:58] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:58] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:58] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:58] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:58] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:58] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:58] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:58] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:58] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:47:59] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:59] [INFO] (main) DHCP request received!
+[2024-11-21 19:47:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:47:59] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:48:00] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:00] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:00] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:00] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:00] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:48:01] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:01] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:01] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:01] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:01] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:01] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:01] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:48:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:02] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:08] [INFO] (main) DHCP request received!
+[2024-11-21 19:48:08] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:48:08] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:58:25] [INFO] (main) DHCP request received!
+[2024-11-21 19:58:25] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:58:25] [INFO] (main) DHCP request received!
+[2024-11-21 19:58:25] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:58:25] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 19:58:42] [INFO] (main) DHCP request received!
+[2024-11-21 19:58:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:58:42] [INFO] (main) DHCP request received!
+[2024-11-21 19:58:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 19:58:42] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:00:54] [INFO] (main) DHCP request received!
+[2024-11-21 20:00:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:00:54] [INFO] (main) DHCP request received!
+[2024-11-21 20:00:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:00:54] [INFO] (main) DHCP request received!
+[2024-11-21 20:00:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:00:54] [INFO] (main) DHCP request received!
+[2024-11-21 20:00:54] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:00:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:02:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:02:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:02:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:02:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:02:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:02:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:02:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:02:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:02:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:02:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:02:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:02:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:02:45] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:04:05] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:05] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:05] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:05] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:05] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:04:25] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:25] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:25] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:25] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:25] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:25] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:25] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:25] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:25] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:04:42] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:42] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:42] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:42] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:42] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:42] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:47] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:47] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:47] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:47] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:47] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:47] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:59] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:59] [INFO] (main) DHCP request received!
+[2024-11-21 20:04:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:04:59] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:08:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:08:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:08:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:08:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:08:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:08:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:08:45] [INFO] (main) DHCP request received!
+[2024-11-21 20:08:45] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:08:45] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:09:21] [INFO] (main) DHCP request received!
+[2024-11-21 20:09:21] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:10:03] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 20:10:03] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:10:10] [INFO] (main) DHCP request received!
+[2024-11-21 20:10:10] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:10:14] [INFO] (main) DHCP request received!
+[2024-11-21 20:10:14] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:10:18] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:10:38] [INFO] (main) DHCP request received!
+[2024-11-21 20:10:38] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:11:29] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 20:11:29] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:11:35] [INFO] (main) DHCP request received!
+[2024-11-21 20:11:35] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:11:38] [INFO] (main) DHCP request received!
+[2024-11-21 20:11:38] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:11:40] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 20:11:57] [INFO] (main) DHCP request received!
+[2024-11-21 20:11:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:14:41] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 20:14:41] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:14:48] [INFO] (main) DHCP request received!
+[2024-11-21 20:14:48] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:15:04] [ERROR] (server) There are not any available addresses in the pool!
+
+[2024-11-21 20:15:04] [INFO] (main) DHCP request received!
+[2024-11-21 20:15:04] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:15:20] [ERROR] (server) There are not any available addresses in the pool!
+
+[2024-11-21 20:15:20] [INFO] (main) DHCP request received!
+[2024-11-21 20:15:20] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:15:52] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 20:15:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:15:57] [INFO] (main) DHCP request received!
+[2024-11-21 20:15:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:23:49] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 20:23:49] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:24:00] [INFO] (main) DHCP request received!
+[2024-11-21 20:24:00] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:24:56] [INFO] (main) DHCP request received!
+[2024-11-21 20:24:56] [INFO] (main) Waiting for DHCP request!
+[2024-11-21 20:25:03] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-21 23:20:25] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-21 23:20:25] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:28] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 00:41:28] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:39] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:39] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:39] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:39] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:39] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 00:41:54] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:54] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:54] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:54] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:54] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:54] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:54] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:57] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:57] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:57] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:57] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:57] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:57] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:57] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:59] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:59] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:59] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:41:59] [INFO] (main) DHCP request received!
+[2024-11-22 00:41:59] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 00:41:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:48:35] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 00:48:35] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:48:41] [INFO] (main) DHCP request received!
+[2024-11-22 00:48:41] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:48:41] [INFO] (main) DHCP request received!
+[2024-11-22 00:48:41] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:48:41] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 00:49:17] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 00:49:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:49:24] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 00:49:24] [ERROR] (main) Error at binding!
+[2024-11-22 00:49:54] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 00:49:54] [ERROR] (main) Error at binding!
+[2024-11-22 00:52:34] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 00:52:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:53:46] [INFO] (main) DHCP request received!
+[2024-11-22 00:53:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:58:13] [INFO] (main) DHCP request received!
+[2024-11-22 00:58:13] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 00:59:41] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 01:02:48] [INFO] (main) DHCP request received!
+[2024-11-22 01:02:50] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:02:53] [INFO] (main) DHCP request received!
+[2024-11-22 01:02:53] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:03:10] [INFO] (main) DHCP request received!
+[2024-11-22 01:03:10] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:03:30] [INFO] (main) DHCP request received!
+[2024-11-22 01:03:30] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:03:52] [INFO] (main) DHCP request received!
+[2024-11-22 01:03:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:04:24] [INFO] (main) DHCP request received!
+[2024-11-22 01:04:24] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:06:14] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 01:06:14] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:06:33] [INFO] (main) DHCP request received!
+[2024-11-22 01:06:33] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:06:58] [INFO] (main) DHCP request received!
+[2024-11-22 01:06:58] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:07:02] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 01:07:02] [INFO] (main) DHCP request received!
+[2024-11-22 01:07:02] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:07:10] [INFO] (main) DHCP request received!
+[2024-11-22 01:07:10] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:08:52] [INFO] (main) DHCP request received!
+[2024-11-22 01:08:52] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:09:23] [INFO] (main) DHCP request received!
+[2024-11-22 01:09:23] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:10:03] [INFO] (main) DHCP request received!
+[2024-11-22 01:10:03] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:13:07] [INFO] (main) DHCP request received!
+[2024-11-22 01:13:07] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:14:17] [INFO] (main) DHCP request received!
+[2024-11-22 01:14:17] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 01:14:38] [INFO] (main) DHCP request received!
+[2024-11-22 01:14:40] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:11:31] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 08:11:31] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:11:54] [INFO] (main) DHCP request received!
+[2024-11-22 08:11:56] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:11:58] [INFO] (main) DHCP request received!
+[2024-11-22 08:11:58] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:12:01] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 08:12:01] [INFO] (main) DHCP request received!
+[2024-11-22 08:12:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:12:06] [INFO] (main) DHCP request received!
+[2024-11-22 08:12:06] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:12:31] [INFO] (main) DHCP request received!
+[2024-11-22 08:12:42] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:17:37] [INFO] (main) DHCP request received!
+[2024-11-22 08:17:37] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:20:21] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 08:20:21] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:20:39] [INFO] (main) DHCP request received!
+[2024-11-22 08:20:39] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:21:34] [INFO] (main) DHCP request received!
+[2024-11-22 08:21:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:21:36] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 08:21:59] [INFO] (main) DHCP request received!
+[2024-11-22 08:21:59] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:22:11] [INFO] (main) DHCP request received!
+[2024-11-22 08:22:11] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:22:28] [INFO] (main) DHCP request received!
+[2024-11-22 08:22:28] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:23] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 08:26:23] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:35] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:35] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:35] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:35] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:35] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 08:26:35] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:35] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:40] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:40] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:46] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:46] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:46] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:46] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:46] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:46] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:46] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:47] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:47] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:47] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:47] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:47] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:47] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:51] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:51] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:51] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:51] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:51] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 08:26:51] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:51] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:26:56] [INFO] (main) DHCP request received!
+[2024-11-22 08:26:56] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:27:47] [INFO] (initialize_server) Opened database successfully
+
+[2024-11-22 08:27:47] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:28:01] [INFO] (main) DHCP request received!
+[2024-11-22 08:28:01] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:29:05] [INFO] (main) DHCP request received!
+[2024-11-22 08:29:05] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:29:09] [INFO] (dhcp_server) Requested IP address has status PENDING! It's OK :)
+[2024-11-22 08:29:09] [INFO] (main) DHCP request received!
+[2024-11-22 08:29:09] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:29:18] [INFO] (main) DHCP request received!
+[2024-11-22 08:29:18] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:29:34] [INFO] (main) DHCP request received!
+[2024-11-22 08:29:34] [INFO] (main) Waiting for DHCP request!
+[2024-11-22 08:30:11] [INFO] (main) DHCP request received!
+[2024-11-22 08:30:11] [INFO] (main) Waiting for DHCP request!

@@ -1,30 +1,41 @@
 #include "dhcp_packet.h"
 
-dhcp_packet *create_dhcp_request_packet(op_types o, hardware_address_types h_type, hardware_address_types h_len, uint32_t xid, uint16_t secs, uint16_t flags, const char *c_address, const char *y_addr, const char *s_addr, const char *g_addr, const char *mac, uint8_t id, uint8_t len, const char*data)
+dhcp_packet *create_dhcp_packet_client(op_types o, hardware_address_types h_type, hardware_address_types h_len, uint32_t xid, uint16_t secs, uint16_t flags,uint32_t c_address, uint32_t y_addr, uint32_t s_addr, uint32_t g_addr, uint8_t mac[16], uint8_t id, uint8_t len, const char*data)
 {
-    dhcp_packet*p=malloc(sizeof(dhcp_packet));
-    set_header(&p->header,o,h_type,h_len,xid,secs,flags,c_address,y_addr,s_addr,g_addr,mac);
-    add_option_request(&p->dhcp_options,id,len,data);
+    dhcp_packet*p = malloc(sizeof(dhcp_packet));
+    queue_init(&p->dhcp_options);
+    set_header(&p->header, o, h_type, h_len, xid, secs, flags, c_address, y_addr, s_addr, g_addr, mac);
+    add_option_request(&p->dhcp_options, id, len, data);
+
+    return p;
+}
+
+dhcp_packet *create_dhcp_packet_server(op_types o, hardware_address_types h_type, hardware_address_types h_len, uint32_t xid, uint16_t secs, uint16_t flags, uint32_t c_address, uint32_t y_addr, uint32_t s_addr, uint32_t g_addr, uint8_t mac[16], uint8_t id, uint8_t len, const char*data)
+{
+    dhcp_packet*p = malloc(sizeof(dhcp_packet));
+    queue_init(&p->dhcp_options);
+    set_header(&p->header, o, h_type, h_len, xid, secs, flags, c_address, y_addr, s_addr, g_addr, mac);
+    add_option_reply(&p->dhcp_options, id, len, data);
 
     return p;
 }
 
 size_t serialize_packet(dhcp_packet *p, char *buffer)
 {
-    size_t total_len=0;
+    size_t total_len = 0;
 
-    size_t header_len=0;
-    serialize_header(&p->header,buffer,&header_len);
+    size_t header_len = 0;
+    serialize_header(&p->header, buffer, &header_len);
 
-    if(header_len!=DHCP_HEADER_SIZE)
+    if(header_len != DHCP_HEADER_SIZE)
     {
         log_msg(WARNING,"serialize_packet","inappropriate header size");
         return -1;
     }
 
-    size_t option_len=serialize_option_list(&p->dhcp_options,buffer+header_len,MAX_DHCP_SIZE-DHCP_HEADER_SIZE);
+    size_t option_len = serialize_option_list(&p->dhcp_options, buffer + header_len, MAX_DHCP_SIZE - DHCP_HEADER_SIZE);
 
-    total_len=header_len+option_len;
+    total_len = header_len + option_len;
 
     return total_len;
 }
@@ -65,6 +76,7 @@ void deserialize(char *buffer,size_t len, dhcp_packet *p)
     // uint8_t id;                       
     // uint8_t len;
     // uint8_t data[128];   
+    queue_init(&p->dhcp_options);
 
     while((uint8_t)buffer[offset]!=END)
     {

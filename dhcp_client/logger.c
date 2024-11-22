@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <fcntl.h>
 #include <time.h>
+#include <fcntl.h>
+#include <unistd.h>
 
 static int log_fd=-1;
 

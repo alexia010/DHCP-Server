@@ -40,13 +40,14 @@ CREATE TABLE ip_mac_leases (
 
     ip_address TEXT NOT NULL UNIQUE,       -- adresa IP alocata
     mac_address TEXT NOT NULL UNIQUE,       -- adresa MAC a clientului
-    lease_start DATETIME NOT NULL,         -- data și ora de inceput a lease-ului
-    lease_end DATETIME NOT NULL,           -- data si ora de sfarsit a lease-ului
+    lease DATETIME NOT NULL,         -- data și ora de inceput a lease-ului
+    --lease_end DATETIME NOT NULL,           -- data si ora de sfarsit a lease-ului
     is_static INTEGER NOT NULL DEFAULT 0,  -- 1 = alocare statica
                                            -- 0 = dinamică
 
     FOREIGN KEY (network_id) REFERENCES network(id) ON DELETE CASCADE
 );
+
 
 -- tabelul `mac_whitelist` pentru filtrarea pe baza adreselor MAC permise
 CREATE TABLE mac_whitelist (

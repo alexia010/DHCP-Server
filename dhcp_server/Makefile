@@ -1,18 +1,25 @@
-TARGET = dhcp_server	#nume executabil final
+# main:main.c
+# 	gcc main.c sum.c -o main
 
-SRC = my_queue.c server.c
-OBJ = $(SRC:.c=.o)
 
-CC = gcc
-CFLAGS = -Wall -g
+# clean:
+# 	rm main
 
-all: $(TARGET)
+CC=gcc
+CFLAGS=-g  # Asigură-te că ai -g aici
 
-$(TARGET): $(OBJ)
-	$(CC) $(CFLAGS) -o $(TARGET) $(OBJ)
+LIBS = -lsqlite3
 
-%.o: %.c
-	$(CC) $(CFLAGS) -c $< -o $@
+# Cauta toate fișierele .c în directorul curent
+SOURCES=$(wildcard *.c)
+EXECUTABLE=server
+
+all: $(EXECUTABLE)
+
+$(EXECUTABLE): $(SOURCES)
+	$(CC) $(CFLAGS) $(SOURCES) -o $@ $(LIBS)
 
 clean:
-	rm -f $(OBJ) $(TARGET)
+	rm -f $(EXECUTABLE) *.o
+
+# all: gcc  queue.c logger.c dhcp_server.c dhcp_options.c main.c -o main -lsqlite3

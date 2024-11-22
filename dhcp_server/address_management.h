@@ -37,13 +37,13 @@ typedef struct pool_indexes pool_indexes;
 struct address_binding
 {
     uint32_t ip_address;
-    uint8_t cidt_len;
-    uint8_t cidt[256];
+    uint8_t cidt_len;   //mac lenght
+    uint8_t cidt[256];  //mac
 
     time_t binding_time;
     time_t lease_time;
 
-    int status;     // binding_status
+    int status;         // binding_status
     bool is_static;
 
     /// ?? LIST_ENTRY(address_binding) pointers; // list pointers, see queue(3)
@@ -58,13 +58,14 @@ struct network
     pool_indexes indexes;
     uint32_t netmask;
     uint32_t gateway;
-     uint32_t broadcast;
+    uint32_t broadcast;
 
     uint32_t dns_server[MAX_DNS];
+    int dns_count;
    
 
     //?? dhcp_options_list  optinos??
-    queue*bindings;
+    queue *bindings;
 
 };
 

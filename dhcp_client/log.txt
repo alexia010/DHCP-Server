@@ -1,0 +1,136 @@
+[2024-11-22 01:02:48] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 01:02:48] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:02:52] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 01:02:52] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:02:57] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 01:03:10] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 01:03:10] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:03:16] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 01:03:16] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:03:34] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 01:03:51] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 01:03:52] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:04:24] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 01:04:24] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:06:33] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 01:06:33] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:06:44] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 01:06:44] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:07:02] [INFO] (dhcp_client) ACK received, address allocated succesfully!
+[2024-11-22 01:07:02] [WARNING] (add_option_request) Invalid option
+[2024-11-22 01:07:02] [INFO] (dhcp_client) DHCP inform packet created!
+[2024-11-22 01:07:02] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:07:10] [INFO] (dhcp_client) DHCP request packet created!
+[2024-11-22 01:07:10] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:08:10] [WARNING] (dhcp_client) Renewal failed! Starting over the allocation process!
+[2024-11-22 01:08:51] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 01:08:52] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:09:16] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 01:09:23] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:09:53] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 01:10:02] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 01:10:03] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:13:03] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 01:13:07] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:13:58] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 01:14:16] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 01:14:17] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 01:14:35] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 01:14:38] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:11:54] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:11:54] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:11:58] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:11:58] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:12:01] [INFO] (dhcp_client) ACK received, address allocated succesfully!
+[2024-11-22 08:12:01] [WARNING] (add_option_request) Invalid option
+[2024-11-22 08:12:01] [INFO] (dhcp_client) DHCP inform packet created!
+[2024-11-22 08:12:01] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:12:06] [INFO] (dhcp_client) DHCP request packet created!
+[2024-11-22 08:12:06] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:12:18] [WARNING] (dhcp_client) Renewal failed! Starting over the allocation process!
+[2024-11-22 08:12:30] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:12:31] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:17:37] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:17:37] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:20:39] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:20:39] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:21:28] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:21:28] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:21:36] [INFO] (dhcp_client) ACK received, address allocated succesfully!
+[2024-11-22 08:21:40] [WARNING] (add_option_request) Invalid option
+[2024-11-22 08:21:41] [INFO] (dhcp_client) DHCP inform packet created!
+[2024-11-22 08:21:41] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:22:06] [INFO] (dhcp_client) DHCP request packet created!
+[2024-11-22 08:22:06] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:22:13] [WARNING] (dhcp_client) Renewal failed! Starting over the allocation process!
+[2024-11-22 08:22:28] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:22:28] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:35] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:26:35] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:35] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:26:35] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:35] [INFO] (dhcp_client) ACK received, address allocated succesfully!
+[2024-11-22 08:26:35] [WARNING] (add_option_request) Invalid option
+[2024-11-22 08:26:35] [INFO] (dhcp_client) DHCP inform packet created!
+[2024-11-22 08:26:35] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:40] [INFO] (dhcp_client) DHCP request packet created!
+[2024-11-22 08:26:40] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:40] [WARNING] (dhcp_client) Renewal failed! Starting over the allocation process!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:46] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:46] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:26:46] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:46] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 08:26:46] [ERROR] (dhcp_client) Wait time elapsed for ACK/NAK
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:47] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:47] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:26:47] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:47] [WARNING] (dhcp_client) NAK received, trying again!
+[2024-11-22 08:26:47] [ERROR] (dhcp_client) Wait time elapsed for ACK/NAK
+[2024-11-22 08:26:51] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:26:51] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:51] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:26:51] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:51] [INFO] (dhcp_client) ACK received, address allocated succesfully!
+[2024-11-22 08:26:51] [WARNING] (add_option_request) Invalid option
+[2024-11-22 08:26:51] [INFO] (dhcp_client) DHCP inform packet created!
+[2024-11-22 08:26:51] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:56] [INFO] (dhcp_client) DHCP request packet created!
+[2024-11-22 08:26:56] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:26:56] [WARNING] (dhcp_client) Renewal failed! Starting over the allocation process!
+[2024-11-22 08:28:01] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:28:01] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:29:05] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:29:05] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:29:09] [INFO] (dhcp_client) ACK received, address allocated succesfully!
+[2024-11-22 08:29:09] [WARNING] (add_option_request) Invalid option
+[2024-11-22 08:29:09] [INFO] (dhcp_client) DHCP inform packet created!
+[2024-11-22 08:29:09] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:29:14] [INFO] (dhcp_client) DHCP request packet created!
+[2024-11-22 08:29:14] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:29:19] [WARNING] (dhcp_client) Renewal failed! Starting over the allocation process!
+[2024-11-22 08:29:34] [INFO] (dhcp_client) DHCP_DISCOVER packet created!
+[2024-11-22 08:29:34] [INFO] (dhcp_client) DHCP message sent!
+[2024-11-22 08:30:11] [INFO] (dhcp_client) Created request for dynamic IP!
+[2024-11-22 08:30:11] [INFO] (dhcp_client) DHCP message sent!

@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "dhcp_server.h": "c",
+        "address_management.h": "c",
+        "dhcp_packet.h": "c",
+        "queue.h": "c",
+        "dhcp_requests.h": "c"
     }
 }

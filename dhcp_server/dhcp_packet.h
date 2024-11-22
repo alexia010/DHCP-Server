@@ -1,36 +1,31 @@
+#ifndef DHCP_PACKET_H
+#define DHCP_PACKET_H
+
+#include <stdio.h>
 #include <stdint.h>
 
-#define DHCP_MAGIC_COOKIE 0x63825363
-#define DHCP_OPTION_MSG_TYPE 53
-#define REPLY 1
-#define SEND 0
+#include "dhcp_header.h"
+#include "dhcp_options.h"
+
+#define MAX_DHCP_SIZE 576
+
 
 struct dhcp_packet
 {
-    uint8_t op;        // operatie (1 pentru request, 2 pentru reply)
-    uint8_t htype;     // tipul hardware (1 pentru Ethernet)
-    uint8_t hlen;      // lungimea adresei hardware (6 pentru Ethernet)
-    uint8_t hops;      // nr de hopuri (de obicei 0)
-    uint32_t xid;      // ID-ul tranzactie
-    uint16_t secs;     // Secunde de la începerea procesului DHCP
-    uint16_t flags;    // Diverse flag-uri (de ex. broadcast 0x8000)
-    uint32_t ciaddr;   // Client IP address (0.0.0.0 dacă nu are)
-    uint32_t yiaddr;   // Your (client) IP address - adresa oferită clientului
-    uint32_t siaddr;   // Server IP address
-    uint32_t giaddr;   // Gateway IP address
-    uint8_t chaddr[16]; // Adresa hardware a clientului (adresa MAC)
-    char sname[64];    // Numele serverului (opțional)
-    char file[128];    // Numele fișierului boot (opțional)
-    uint8_t options[312]; // Opțiuni DHCP (magic cookie + opțiuni)
+    dhcp_header header;
+    queue dhcp_options;
 };
 
-enum dhcp_message_type {
-    DHCPDISCOVER = 1,
-    DHCPOFFER = 2,
-    DHCPREQUEST = 3,
-    DHCPDECLINE = 4,
-    DHCPACK = 5,
-    DHCPNAK = 6,
-    DHCPRELEASE = 7,
-    DHCPINFORM = 8
-};
+typedef struct dhcp_packet dhcp_packet;
+
+
+dhcp_packet *create_dhcp_packet_client(op_types o, hardware_address_types h_type, hardware_address_types h_len, uint32_t xid, uint16_t secs, uint16_t flags,uint32_t c_address, uint32_t y_addr, uint32_t s_addr, uint32_t g_addr, uint8_t mac[16], uint8_t id, uint8_t len, const char*data);
+
+
+dhcp_packet *create_dhcp_packet_server(op_types o, hardware_address_types h_type, hardware_address_types h_len, uint32_t xid, uint16_t secs, uint16_t flags,uint32_t c_address, uint32_t y_addr, uint32_t s_addr, uint32_t g_addr, uint8_t mac[16], uint8_t id, uint8_t len, const char*data);
+size_t serialize_packet(dhcp_packet*p,char*buffer);
+
+void deserialize(char*buffer,size_t len, dhcp_packet*p);
+
+
+#endif

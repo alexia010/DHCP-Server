@@ -55,10 +55,7 @@ typedef struct dhcp_header {
 };
 
 typedef struct dhcp_header dhcp_header;
-
-void set_header(dhcp_header*header, op_types o, hardware_address_types h_type,hardware_address_types h_len,uint32_t xid,\
-    uint16_t secs,uint16_t flags,const char *c_address,const char *y_addr,const char*s_addr,const char*g_addr,const char *mac);
-
+void set_header(dhcp_header *header, op_types o, hardware_address_types h_type,hardware_address_types h_len, uint32_t xid, uint16_t secs,uint16_t flags, uint32_t c_address, uint32_t y_addr, uint32_t s_addr, uint32_t g_addr, uint8_t mac[16]);
 void serialize_header(dhcp_header*h,char*buffer,size_t*len );
 
 #endif

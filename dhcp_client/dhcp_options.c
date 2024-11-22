@@ -1,4 +1,5 @@
 #include "dhcp_options.h"
+#include <ctype.h>
 
 #include <arpa/inet.h>
 #include <stdint.h>
@@ -19,8 +20,10 @@ void parse_ip(const char*ip_txt,uint32_t *ip_bin)
     
    *ip_bin = ntohl(ip.sin_addr.s_addr);
  
-    return 0;
+    return;
 }
+
+
 
 void convert_ip(uint32_t ip_bin, char *ip_txt)
 {
@@ -91,7 +94,7 @@ int add_option_request(queue *q, uint8_t id, uint8_t len,const char*data)
     switch (id)
     {
     case SUBNET_MASK:
-    case ROUTER:
+    //case ROUTER:
     case BROADCAST_ADDRESS:
     case REQUESTED_IP_ADDRESS:
     case SERVER_IDENTIFIER:
@@ -99,8 +102,7 @@ int add_option_request(queue *q, uint8_t id, uint8_t len,const char*data)
         break;;
 
     case DHCP_MESSAGE_TYPE:
-        if(len==1)
-            opt->len=1;
+        if(len==1 || len == 5)
             switch (data[0])
             {
             case DHCP_DISCOVER:
@@ -111,7 +113,7 @@ int add_option_request(queue *q, uint8_t id, uint8_t len,const char*data)
             case DHCP_NAK:
             case DHCP_RELEASE:
             case DHCP_INFORM:
-                    memcpy(opt->data,data,1);
+                    memcpy(opt->data,data,len);
                 break;
             default:
                 log_msg(WARNING,"add_option_request","Invalid dhcp message type.");
@@ -126,7 +128,7 @@ int add_option_request(queue *q, uint8_t id, uint8_t len,const char*data)
                 switch (data[i])
                 {
                 case SUBNET_MASK:
-                case ROUTER:
+                //case ROUTER:
                 case DOMAIN_NAME_SERVER:
                 case BROADCAST_ADDRESS:
                 case REQUESTED_IP_ADDRESS:
@@ -212,7 +214,7 @@ int add_option_reply(queue*q,uint8_t id,uint8_t len, const char*data)
     switch (id)
     {
         case SUBNET_MASK:
-        case ROUTER:
+        //case ROUTER:
         case BROADCAST_ADDRESS:
         case REQUESTED_IP_ADDRESS:
         case SERVER_IDENTIFIER:
@@ -256,18 +258,18 @@ int add_option_reply(queue*q,uint8_t id,uint8_t len, const char*data)
                 return 1;
             }
             break;
-        case DHCP_MESSAGE_TYPE:
-            if (len == 1) 
-            {
-                memcpy(opt->data, data, len);
-            } 
-            else 
-            {
-                free(opt);
-                log_msg(WARNING,"add_option_reply","Invalid dhcp_message_type.");
-                return 1;
-            }
-            break;
+        // case DHCP_MESSAGE_TYPE:
+        //     if (len == 1) 
+        //     {
+        //         memcpy(opt->data, data, len); //in data[0] am dhcp_reply
+        //     } 
+        //     else 
+        //     {
+        //         free(opt);
+        //         log_msg(WARNING,"add_option_reply","Invalid dhcp_message_type.");
+        //         return 1;
+        //     }
+        //     break;
 
         case PARAMETER_REQUEST_LIST:
             if (len > 0) 

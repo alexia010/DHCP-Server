@@ -10,7 +10,7 @@ enum dhcp_msg_type {
      DHCP_DISCOVER = 1,
      DHCP_OFFER    = 2,
      DHCP_REQUEST  = 3,
-     DHCP_DECLINE  = 4,
+     DHCP_DECLINE  = 4, //?
      DHCP_ACK      = 5,
      DHCP_NAK      = 6,
      DHCP_RELEASE  = 7,
@@ -21,7 +21,7 @@ enum option{
      PAD = 0,
      END = 255,
      SUBNET_MASK = 1,
-     ROUTER=3,
+     //ROUTER=3,
      DOMAIN_NAME_SERVER=6,
      BROADCAST_ADDRESS=28,
 

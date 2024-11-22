@@ -1,6 +1,6 @@
 #include "dhcp_header.h"
 
-void set_header(dhcp_header *header, op_types o, hardware_address_types h_type,hardware_address_types h_len, uint32_t xid, uint16_t secs,uint16_t flags, const char *c_address, const char *y_addr, const char *s_addr, const char *g_addr, const char *mac)
+void set_header(dhcp_header *header, op_types o, hardware_address_types h_type,hardware_address_types h_len, uint32_t xid, uint16_t secs,uint16_t flags, uint32_t c_address, uint32_t y_addr, uint32_t s_addr, uint32_t g_addr, uint8_t mac[16])
 {
     header->op=o;
     header->htype=h_type;
@@ -9,12 +9,18 @@ void set_header(dhcp_header *header, op_types o, hardware_address_types h_type,h
     header->secs=secs;
     header->flags=flags;
 
+    header->ciaddr = c_address;
+    header->yiaddr = y_addr;
+    header->giaddr = g_addr;
+    header->siaddr = s_addr;
+    memcpy(header->chaddr, mac, ETHERNET_LEN);
 
-    parse_ip(c_address,& header->ciaddr);
-    parse_ip(y_addr,&header->yiaddr);
-    parse_ip(s_addr,& header->siaddr);
-    parse_ip(g_addr,&header->giaddr);
-    parse_mac(mac,&header->chaddr);
+
+    // parse_ip(c_address,& header->ciaddr);
+    // parse_ip(y_addr,&header->yiaddr);
+    // parse_ip(s_addr,& header->siaddr);
+    // parse_ip(g_addr,&header->giaddr);
+    // parse_mac(mac,&header->chaddr);
 
     memset(header->sname,0,64);
     memset(header->file,0,128);
