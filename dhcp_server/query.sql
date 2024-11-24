@@ -1,1 +1,1 @@
-select * from network
+delete from ip_mac_leases

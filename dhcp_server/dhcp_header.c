@@ -14,14 +14,6 @@ void set_header(dhcp_header *header, op_types o, hardware_address_types h_type,h
     header->giaddr = g_addr;
     header->siaddr = s_addr;
     memcpy(header->chaddr, mac, ETHERNET_LEN);
-
-
-    // parse_ip(c_address,& header->ciaddr);
-    // parse_ip(y_addr,&header->yiaddr);
-    // parse_ip(s_addr,& header->siaddr);
-    // parse_ip(g_addr,&header->giaddr);
-    // parse_mac(mac,&header->chaddr);
-
     memset(header->sname,0,64);
     memset(header->file,0,128);
 }

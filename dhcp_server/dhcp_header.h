@@ -50,8 +50,6 @@ typedef struct dhcp_header {
     uint8_t sname[64]; // server host name
 
     uint8_t file[128]; // boot file name
-
-    //uint8_t options[312]; // optional parameters field
 };
 
 typedef struct dhcp_header dhcp_header;

@@ -7,7 +7,7 @@ node *create_node(void *value)
 
     if(!new_node)
     {
-        perror("Failed to allocate memory");
+        log_msg(ERROR, "queue/create_node", "Failed to allocate memory!");
         exit(-1);
     }
 
@@ -16,7 +16,7 @@ node *create_node(void *value)
     return new_node;
 }
 
-int queeue_is_empty(queue *q)
+int queue_is_empty(queue *q)
 {
     if(q->head==NULL)
     {  
@@ -57,7 +57,7 @@ void *queue_dequeue(queue*q)
 {
     if(q->head==NULL)
     {
-        log_msg(INFO, "queue", "The queue is empty!");
+        log_msg(INFO, "queue/queue_dequeue", "The queue is empty!");
         return NULL;
     }
 

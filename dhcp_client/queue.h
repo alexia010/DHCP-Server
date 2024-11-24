@@ -20,7 +20,7 @@ typedef struct
     node *tail;
 }queue;
 
-int queeue_is_empty(queue*q);
+int queue_is_empty(queue*q);
 void queue_init(queue*q);
 void queue_enqueue(queue*q,void*value);
 void* queue_dequeue(queue*q);

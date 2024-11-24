@@ -63,4 +63,12 @@ bool confirm_static_ip(server_configs *server, dhcp_packet packet, network **net
 bool decline_ip(server_configs *server, dhcp_packet packet, network **net);
 bool release_ip_address(server_configs *server, dhcp_packet packet, network **net);
 
+void convert_ip_to_bytes(uint32_t ip_address, unsigned char *data);
+
+void insert_ip_mac_lease(char *netw_name, uint32_t ip, uint8_t mac[16], time_t lease_time_start, time_t lease_time_end, bool is_static);
+int get_network_id_by_name(const char *network_name);
+void time_to_sql_format(time_t timestamp, char *time_str);
+void modify_lease_in_database(uint32_t ip, time_t lease_start, time_t lease_end);
+void delete_ip_in_database(uint32_t ip);
+
 #endif

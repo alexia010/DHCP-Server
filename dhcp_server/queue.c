@@ -1,4 +1,5 @@
 #include "queue.h"
+#include "logger.h"
 
 node *create_node(void *value)
 {
@@ -6,7 +7,7 @@ node *create_node(void *value)
 
     if(!new_node)
     {
-        perror("Failed to allocate memory");
+        log_msg(ERROR, "queue/create_node", "Failed to allocate memory!");
         exit(-1);
     }
 
@@ -56,7 +57,7 @@ void *queue_dequeue(queue*q)
 {
     if(q->head==NULL)
     {
-        printf("empty queue\n");
+        log_msg(INFO, "queue/queue_dequeue", "The queue is empty!");
         return NULL;
     }
 

@@ -30,7 +30,7 @@ size_t serialize_packet(dhcp_packet *p, char *buffer)
 
     if(header_len != DHCP_HEADER_SIZE)
     {
-        log_msg(WARNING,"serialize_packet","inappropriate header size");
+        log_msg(WARNING,"dhcp_packet/serialize_packet","inappropriate header size");
         return -1;
     }
 
@@ -46,7 +46,7 @@ void deserialize(char *buffer,size_t len, dhcp_packet *p)
 {
     if(len<DHCP_HEADER_SIZE||len>MAX_DHCP_SIZE)
     {
-        log_msg(WARNING,"deserialize","invalid buffer length");
+        log_msg(WARNING,"dhcp_packet/deserialize","invalid buffer length");
     }
     int offset=0;
     
@@ -70,19 +70,15 @@ void deserialize(char *buffer,size_t len, dhcp_packet *p)
     offset += 4;
 
     if (memcmp(magic_cookie, "\x63\x82\x53\x63", 4) != 0) {
-        log_msg(ERROR, "deserialize", "Magic cookie invalid.");
+        log_msg(ERROR, "dhcp_packet/deserialize", "Magic cookie invalid.");
         return;
     }
-
-    // uint8_t id;                       
-    // uint8_t len;
-    // uint8_t data[128];   
-
+    
     while((uint8_t)buffer[offset]!=END)
     {
         if(offset>=len)
         {
-            log_msg(WARNING,"deserialize","incorrect buffer format");
+            log_msg(WARNING,"dhcp_packet/deserialize","incorrect buffer format");
             return;
         }
         uint8_t id,len2; 
