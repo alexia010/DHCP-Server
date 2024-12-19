@@ -38,6 +38,8 @@ void handle_dhcp_release(dhcp_packet **packet_to_send, server_configs *server, d
 void handle_dhcp_inform(server_configs *server, dhcp_packet *packet, network **net, dhcp_packet **packet_to_send);
 void send_dhcp_packet(int socketfd, dhcp_packet **packet_to_send, struct sockaddr_in *client_addr);
 void handle_sigint(int sig);
+
+void get_memory_usage();
     
 server_configs *server;
 
@@ -109,6 +111,8 @@ int main(int argc, char*argv[])
        
         log_msg(INFO, "server/main", "DHCP request received!");
 
+        get_memory_usage();
+
         // Allocation for client_data
         struct client_data *pclient = malloc(sizeof(struct client_data));
         if(pclient == NULL)
@@ -121,6 +125,10 @@ int main(int argc, char*argv[])
         memcpy(&pclient->client_addr, &client_addr, sizeof(client_addr));
         memcpy(&pclient->packet, &packet_dhcp_received, sizeof(dhcp_packet));
 
+        // We start time measuring 
+        struct timeval start, end;
+        gettimeofday(&start, NULL);
+
         // No other thread modifies the queue while we're adding a client data
         pthread_mutex_lock(&mutex);
 
@@ -130,7 +138,16 @@ int main(int argc, char*argv[])
         // Signal that new data is in the queue
         pthread_cond_signal(&condition_var);
         pthread_mutex_unlock(&mutex);
-    }
+
+        gettimeofday(&end, NULL); // End time measuring 
+
+        double elapsed_time = (end.tv_sec - start.tv_sec) + (end.tv_usec - start.tv_usec) / 1000000.0;
+        
+        char log_msg_buffer[256]; 
+        sprintf(log_msg_buffer, "Processig time for DHCP request: %.6f seconds", elapsed_time);
+
+        // Log message
+        log_msg(INFO, "server/main", log_msg_buffer);    }
 
     free_queue();
 
@@ -417,4 +434,22 @@ void handle_sigint(int sig)
 
     // Unlock the mutex after broadcasting the signal
     pthread_mutex_unlock(&mutex);
+}
+
+void get_memory_usage() 
+{
+    FILE *f = fopen("/proc/self/status", "r");
+    if (f == NULL) {
+        perror("Error opening /proc/self/status");
+        return;
+    }
+
+    char line[256];
+    while (fgets(line, sizeof(line), f)) {
+        if (strncmp(line, "VmRSS:", 6) == 0) {
+            printf("Memory Usage: %s", line);
+        }
+    }
+
+    fclose(f);
 }

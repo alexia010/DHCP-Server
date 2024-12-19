@@ -8,7 +8,7 @@
 CC=gcc
 CFLAGS=-g  # Asigură-te că ai -g aici
 
-LIBS = -lsqlite3
+LIBS = -lsqlite3 -lpthread
 
 # Cauta toate fișierele .c în directorul curent
 SOURCES=$(wildcard *.c)
