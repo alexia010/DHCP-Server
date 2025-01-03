@@ -77,3 +77,6 @@ VALUES
 (2, 2),  
 (3, 3),
 (3, 1);
+
+INSERT INTO mac_whitelist (mac_address, description)
+VALUES ('aa:bb:cc:dd:ee:ff', 'PC personal');

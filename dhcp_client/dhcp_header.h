@@ -50,9 +50,8 @@ typedef struct dhcp_header {
     uint8_t sname[64]; // server host name
 
     uint8_t file[128]; // boot file name
-};
+}dhcp_header;
 
-typedef struct dhcp_header dhcp_header;
 void set_header(dhcp_header *header, op_types o, hardware_address_types h_type,hardware_address_types h_len, uint32_t xid, uint16_t secs,uint16_t flags, uint32_t c_address, uint32_t y_addr, uint32_t s_addr, uint32_t g_addr, uint8_t mac[16]);
 void serialize_header(dhcp_header*h,char*buffer,size_t*len );
 

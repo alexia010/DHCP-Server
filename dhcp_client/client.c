@@ -10,8 +10,8 @@
 
 #include "dhcp_client.h"
 
-#define DHCP_SERVER_PORT 2000
-#define DHCP_CLIENT_PORT 2001
+#define DHCP_SERVER_PORT 67
+#define DHCP_CLIENT_PORT 68
 #define RETRIES 3
 
 time_t lease_time_end = 0;

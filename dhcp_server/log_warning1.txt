@@ -1,0 +1,15 @@
+[2024-12-27 17:17:30] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-27 17:17:30] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-27 17:17:30] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:14:50] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:14:50] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:14:50] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:15:11] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:15:11] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:15:11] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:16:30] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:16:30] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:16:30] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:18:08] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:18:08] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres
+[2024-12-28 03:18:08] [WARNING] (verify_whitelist) device with mac address aa:bb:cc:dd:ee:fa requested ip addres

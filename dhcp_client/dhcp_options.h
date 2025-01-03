@@ -50,9 +50,8 @@ typedef struct dhcp_option
      uint8_t id;                       
      uint8_t len;
      uint8_t data[128];    
-};
+}dhcp_option;
 
-typedef struct dhcp_option dhcp_option;
 
 
 void parse_ip(const char*ip_txt,uint32_t *ip_bin);

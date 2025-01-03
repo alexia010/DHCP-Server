@@ -18,7 +18,8 @@ void parse_ip(const char*ip_txt,uint32_t *ip_bin)
         return ;
     }
     
-   *ip_bin = ntohl(ip.sin_addr.s_addr);
+//    *ip_bin = ntohl(ip.sin_addr.s_addr);
+  *ip_bin = ip.sin_addr.s_addr;
  
     return;
 }

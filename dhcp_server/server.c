@@ -15,17 +15,20 @@
 #include "dhcp_packet.h"
 #include "logger.h"
 #include "dhcp_server.h"
+#include <asm-generic/socket.h>
 
 volatile sig_atomic_t running = 1;
 
-#define DHCP_SERVER_PORT 2000
-#define DHCP_CLIENT_PORT 2001
+#define DHCP_SERVER_PORT 67
+#define DHCP_CLIENT_PORT 68 
 #define THREAD_POOL_SIZE 3
 
 //creez un pool_thread
 pthread_t thread_pool[THREAD_POOL_SIZE];
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 pthread_cond_t condition_var = PTHREAD_COND_INITIALIZER;
+
+#define ACTIVE_WHITELIST 0      // bool 
 
 void *handle_connection(void* pclient);
 void check(int result, const char* message);
@@ -46,7 +49,7 @@ server_configs *server;
 int main(int argc, char*argv[])
 {
     signal(SIGINT, handle_sigint);
-    log_init("log.txt");
+    log_init();
 
     int socketfd;
 
@@ -57,7 +60,7 @@ int main(int argc, char*argv[])
 
     // Allocate server with necessary data
     server = malloc(sizeof(server_configs));
-    initialize_server(server, SERVER_IP, NETMASK, GATEWAY, "intef.org", LEASE_TIME, PENDING_TIME, RENEWAL_TIME, REBINDING_TIME);
+    initialize_server(server, SERVER_IP, NETMASK, GATEWAY, "intefffffffffff.org", LEASE_TIME, PENDING_TIME, RENEWAL_TIME, REBINDING_TIME,ACTIVE_WHITELIST);
     server->networks_nr = initialize_networks(server->networks);
 
     // Creating pool thread
@@ -423,6 +426,7 @@ void handle_sigint(int sig)
 {
     log_msg(INFO, "server/main", "SIGINT received, shutting down...");
 
+    close_logger();
     // Set the 'running' flag to 0, which will stop the main loop
     running = 0;
 

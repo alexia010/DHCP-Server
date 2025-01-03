@@ -14,7 +14,7 @@
 #define RENEWAL_TIME  "1800"
 #define REBINDING_TIME "3000"
 
-#define DB_PATH "/home/daria/Desktop/DHCP-Server/dhcp_server/config2.db"
+#define DB_PATH "/home/larisa/Desktop/gitFinal/DHCP-Server/dhcp_server/config2.db"
 
 
 #define MAX_NETWORKS 5
@@ -40,6 +40,8 @@ struct server_configs
 
     network networks[MAX_NETWORKS];
     int networks_nr;
+
+    bool activeWhitelist;
 };
 
 typedef struct server_configs server_configs;
@@ -47,7 +49,7 @@ typedef struct server_configs server_configs;
 
 void initialize_server(server_configs *s, char *server_ip, const char *netmask,
                         const char *gateway, char interface[20], const char *l_time, 
-                        const char *p_time, const char* r_time, const char* rb_time);
+                        const char *p_time, const char* r_time, const char* rb_time,bool activeWhitelist);
 
 //void exec_quey(char* query, char*callback,void **);
 
@@ -70,5 +72,7 @@ int get_network_id_by_name(const char *network_name);
 void time_to_sql_format(time_t timestamp, char *time_str);
 void modify_lease_in_database(uint32_t ip, time_t lease_start, time_t lease_end);
 void delete_ip_in_database(uint32_t ip);
+
+bool verify_whitelist(uint8_t chaddr[16]);
 
 #endif

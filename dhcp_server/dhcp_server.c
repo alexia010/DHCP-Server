@@ -1,6 +1,6 @@
 #include "dhcp_server.h"
 
-void initialize_server(server_configs *s, char *server_ip, const char *netmask, const char *gateway, char interface[20], const char *l_time, const char *p_time, const char *r_time, const char *rb_time)
+void initialize_server(server_configs *s, char *server_ip, const char *netmask, const char *gateway, char interface[20], const char *l_time, const char *p_time, const char *r_time, const char *rb_time,bool activeWhitelist)
 {
     uint32_t ip,nm,gt;
 
@@ -28,6 +28,7 @@ void initialize_server(server_configs *s, char *server_ip, const char *netmask, 
     parse_long(rb_time,&rb);
     s->rebinding_time=rb;
 
+    s->activeWhitelist=activeWhitelist;
     //open db
     int rc = sqlite3_open(DB_PATH, &db);
 
@@ -40,28 +41,6 @@ void initialize_server(server_configs *s, char *server_ip, const char *netmask, 
     
 
 }
-
-// void exec_quey(char *query, char *cb, void **data)
-// {
-//     char *err_msg=0;  
-//     int rc=sqlite3_exec(db,query,cb,&data,err_msg);   
-//     if(rc!=SQLITE_OK)
-//     {
-//         log_msg(ERROR,"exec_query",err_msg);
-//         exit(-1);
-//     }
-// }
-// static int ntw_callback(void*data,int row_count, char**row_values,char*column_names)
-// {
-//     network *result=(network*)data;
-//     if(row_count>=MAX_NETWORKS)
-//     {
-//         log_msg(WARNING,"ntw_callback","Too many networks");
-//         row_count=MAX_NETWORKS;
-//     }
-//     static int index=0;
-//     strncpy(result[index].netw_name,row_values[0])
-// }
 
 int initialize_networks(network *n)
 {
@@ -204,7 +183,7 @@ bool verify_address_binding(uint32_t adresa_ip, queue* bindings)
     return false;
 }
 
-uint32_t find_free_ip(network *net)
+uint32_t find_free_ip(network* net)
 {
     uint32_t current_ip = net->indexes.first;
 
@@ -220,10 +199,28 @@ dhcp_packet* process_dhcp_discover(server_configs *server, dhcp_packet packet, n
 {
     dhcp_packet *packet_to_send = (dhcp_packet*)malloc(sizeof(dhcp_packet));
 
+    if(server->activeWhitelist==1)
+    {
+        bool exists=verify_whitelist(packet.header.chaddr);
+
+        if(exists==0)
+        {
+            char data[2];
+            data[0] = DHCP_NAK;
+            packet_to_send = create_dhcp_packet_server(BOOTREPLY, ETHERNET, ETHERNET_LEN, packet.header.xid, packet.header.secs, packet.header.flags, packet.header.ciaddr, packet.header.yiaddr, server->server_ip, server->gateway, packet.header.chaddr, DHCP_MESSAGE_TYPE, 1, data);
+            char wr_msg[200];
+            char mac_str[18];
+            convert_mac(packet.header.chaddr,mac_str);
+            sprintf(wr_msg,"%s %s %s","device with mac address",mac_str,"requested ip addres");
+            log_msg(WARNING,"verify_whitelist", wr_msg);
+            return packet_to_send;
+        }
+    }
+
     if((*net)->indexes.current <= (*net)->indexes.last)
     {
         uint32_t address_ip =  (*net)->indexes.current;
-        if(address_ip == NULL)
+        if(address_ip == 0)     //NULL initial
         {
             log_msg(ERROR, "dhcp_server/process_dhcp_discover", "There are no available IPs!");
             exit(-1);
@@ -247,7 +244,7 @@ dhcp_packet* process_dhcp_discover(server_configs *server, dhcp_packet packet, n
     }
     else
     {
-        uint32_t address_ip = find_free_ip(net);
+        uint32_t address_ip = find_free_ip(*net);
         if(address_ip == 0)
         {
             log_msg(ERROR, "dhcp_server/process_dhcp_discover", "There are not any available addresses in the pool!\n");
@@ -465,7 +462,7 @@ void insert_ip_mac_lease(char *netw_name, uint32_t ip, uint8_t mac[16], time_t l
 
     time_to_sql_format(lease_time_start, lease_start_str);
     time_to_sql_format(lease_time_end, lease_end_str);
-    convert_mac(mac, &mac_str);
+    convert_mac(mac, mac_str);
     sprintf(ip_str, "%u.%u.%u.%u", (ip >> 24) & 0xFF, (ip >> 16) & 0xFF, (ip >> 8) & 0xFF, ip & 0xFF);
 
     // command for insert
@@ -645,4 +642,49 @@ void delete_ip_in_database(uint32_t ip)
 
     sqlite3_finalize(stmt);
     sqlite3_close(db);
+}
+
+bool verify_whitelist(uint8_t chaddr[16])
+{
+    char mac_str[18];
+    convert_mac(chaddr,mac_str);
+
+    sqlite3_stmt *stmt;
+    const char *sql = "SELECT COUNT(*) FROM mac_whitelist WHERE mac_address = ?";
+
+    // create statement
+    if (sqlite3_prepare_v2(db, sql, -1, &stmt, 0) != SQLITE_OK) {
+        char error_msg[200];
+        sprintf(error_msg,"%s : %s","Error preparing statement",sqlite3_errmsg(db));
+        log_msg(ERROR,"verify_whitelist", error_msg);
+        return false;
+    }
+
+    // binding parameter
+    if (sqlite3_bind_text(stmt, 1, mac_str, -1, SQLITE_STATIC) != SQLITE_OK) {
+        char error_msg[200];
+        sprintf(error_msg,"%s : %s","Error binding value",sqlite3_errmsg(db));
+        log_msg(ERROR,"verify_whitelist", error_msg);
+        sqlite3_finalize(stmt);
+        return false;
+    }
+
+    // execute
+    int result = sqlite3_step(stmt);
+
+    if (result == SQLITE_ROW) {
+      
+        int count = sqlite3_column_int(stmt, 0);
+        sqlite3_finalize(stmt);
+        
+        // Dacă COUNT(*) > 0, adresa MAC se află în whitelist
+        return count;
+    } else {
+        char error_msg[200];
+        sprintf(error_msg,"%s : %s","Error executing statement",sqlite3_errmsg(db));
+        log_msg(ERROR,"verify_whitelist", error_msg);
+        sqlite3_finalize(stmt);
+
+        return false;
+    }
 }

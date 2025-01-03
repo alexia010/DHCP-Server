@@ -12,6 +12,23 @@
 
 #define DATA_SIZE 255
 
+void check(int result, const char* message)
+{
+    if(result < 0)
+    {
+        log_msg(ERROR, "dhcp_client/check", message);
+        exit(EXIT_FAILURE);
+    }
+}
+
+void convert_ip_to_bytes(uint32_t ip_address, unsigned char *data)
+{
+    data[0] = (ip_address >> 24) & 0xFF;
+    data[1] = (ip_address >> 16) & 0xFF;
+    data[2] = (ip_address >> 8) & 0xFF;
+    data[3] = ip_address & 0xFF;
+}
+
 void create_discover(dhcp_packet **dhcp_packet_sent)
 {
     unsigned char data[DATA_SIZE];
@@ -26,7 +43,7 @@ void create_discover(dhcp_packet **dhcp_packet_sent)
 
     parse_ip("0.0.0.0", &ip);
     parse_ip("255.255.255.255", &br);
-    parse_mac("aa:bb:cc:dd:ee:ff", mac);   //aici intervine larisa cu alocarea mac urilor
+    parse_mac("aa:bb:cc:dd:ee:fa", mac);  
 
     int rand_nb = rand() % 99 + 1;
     *dhcp_packet_sent = create_dhcp_packet_client(BOOTREQUEST, ETHERNET, ETHERNET_LEN, rand_nb, 0, 0, ip, ip, br, ip, mac, DHCP_MESSAGE_TYPE, data_length, data);
@@ -271,22 +288,6 @@ void receive_packet(dhcp_packet **dhcp_packet_received, int sockfd, struct socka
     memcpy(*dhcp_packet_received, &temp_packet, sizeof(dhcp_packet));
 }
 
-void check(int result, const char* message)
-{
-    if(result < 0)
-    {
-        log_msg(ERROR, "dhcp_client/check", message);
-        exit(EXIT_FAILURE);
-    }
-}
-
-void convert_ip_to_bytes(uint32_t ip_address, unsigned char *data)
-{
-    data[0] = (ip_address >> 24) & 0xFF;
-    data[1] = (ip_address >> 16) & 0xFF;
-    data[2] = (ip_address >> 8) & 0xFF;
-    data[3] = ip_address & 0xFF;
-}
 
 
 void print_dhcp_packet(const dhcp_packet *packet) 

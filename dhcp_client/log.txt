@@ -1,0 +1,1932 @@
+[2024-12-19 11:43:16] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-19 11:43:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-19 11:43:16] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-19 11:43:16] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-19 11:43:16] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-19 11:43:16] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-19 11:43:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-19 11:43:16] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-19 11:43:16] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-19 11:43:16] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-19 11:43:26] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-19 11:43:26] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-19 11:43:26] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-19 11:43:26] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-19 11:43:26] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 03:20:27] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 03:20:27] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 03:20:27] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 03:20:27] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 03:20:27] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 03:20:27] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 03:20:27] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 03:20:27] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 03:20:27] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 03:20:27] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 03:30:24] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 03:30:24] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 03:30:24] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 03:30:24] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 03:30:24] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 03:30:24] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 03:30:24] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 03:30:24] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 03:30:24] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 03:30:24] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 03:38:23] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 03:38:23] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 03:38:23] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:16] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:16] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:16] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:16] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:16] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:16] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:16] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:16] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:09:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:09:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:09:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:09:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-26 04:09:30] [ERROR] (client/dhcp_discovery) Wait time elapsed for OFFER!
+[2024-12-26 04:11:57] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:11:57] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:11:57] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:14:06] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:14:06] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:14:06] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:15:03] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:15:03] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:15:03] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:48:34] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:48:34] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:48:34] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:48:34] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:48:34] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:48:34] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:48:34] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:48:34] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:48:34] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:48:34] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 04:49:56] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:49:56] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:49:56] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:49:56] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:49:56] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:50:06] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:50:06] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to nak is: 0!
+[2024-12-26 04:50:06] [WARNING] (client/handle_dhcp_offer) NAK received, trying again!
+[2024-12-26 04:53:36] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 04:53:36] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:53:36] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 04:53:36] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 04:53:36] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 04:53:36] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 04:53:36] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 04:53:36] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 04:53:36] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 04:53:36] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 05:19:47] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 05:19:47] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 05:19:47] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 05:19:47] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 05:19:47] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 05:19:47] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 05:19:47] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 05:19:47] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 05:19:47] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 05:19:47] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 05:23:16] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 05:23:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 05:23:16] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 05:23:16] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 05:23:16] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 05:23:16] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 05:23:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 05:23:16] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 05:23:16] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 05:23:16] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 06:03:40] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 06:03:40] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:03:40] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 06:07:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 06:07:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:07:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 06:08:24] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 06:08:24] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:08:24] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 06:08:24] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 06:08:24] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 06:08:24] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 06:08:24] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:08:24] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 06:08:24] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 06:08:24] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 06:09:16] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 06:09:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:09:16] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 06:09:16] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 06:09:16] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 06:09:16] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 06:09:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:09:16] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 06:09:16] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 06:09:16] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 06:10:09] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 06:10:09] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:10:09] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 06:10:09] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 06:10:09] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 06:10:09] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 06:10:09] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:10:09] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 06:10:09] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 06:10:09] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 06:11:05] [INFO] (dhcp_client/create_inform) DHCP inform packet created!
+[2024-12-26 06:11:05] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:11:05] [INFO] (client/handle_dhcp_ack) Time elapsed from inform to response inform is: 0
+[2024-12-26 06:12:30] [INFO] (dhcp_client/create_request_renew) DHCP renew packet created!
+[2024-12-26 06:12:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:12:30] [INFO] (client/renew_ip) Time elapsed from renew ip to nak is: 0!
+[2024-12-26 06:12:30] [WARNING] (client/renew_ip) Renewal failed! Starting over the allocation process!
+[2024-12-26 06:14:16] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-26 06:14:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:14:16] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-26 06:14:16] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-26 06:14:16] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-26 06:14:16] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-26 06:14:16] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-26 06:14:16] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-26 06:14:16] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-26 06:14:16] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-26 06:27:53] [INFO] (dhcp_server/initialize_server) Opened database successfully
+
+[2024-12-26 06:27:53] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:27:59] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:28:04] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:28:09] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:28:14] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:28:19] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:28:24] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:28:29] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:28:34] [INFO] (server/main) Waiting for DHCP request!
+[2024-12-26 06:28:38] [INFO] (server/main) SIGINT received, shutting down...
+[2024-12-26 06:28:38] [ERROR] (server/main) Error at receiving packet from client!
+[2024-12-26 06:28:38] [INFO] (server/main) Server shutdown complete.
+[2024-12-27 01:14:40] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:14:40] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:14:40] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:14:40] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:14:40] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:14:40] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:14:40] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:14:40] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:14:40] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:14:40] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:20:30] [INFO] (dhcp_client/create_release) DHCP release packet created!
+[2024-12-27 01:20:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:20:30] [INFO] (client/release_ip) Time elapsed from release ip to ack is: 0!
+[2024-12-27 01:20:30] [INFO] (client/release_ip) IP address released successfully!
+[2024-12-27 01:22:02] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 01:22:12] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:22:12] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:22:12] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:22:12] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:22:12] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:22:12] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:22:12] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:22:12] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:22:12] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:22:12] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:22:15] [INFO] (dhcp_client/create_inform) DHCP inform packet created!
+[2024-12-27 01:22:15] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:22:15] [INFO] (client/handle_dhcp_ack) Time elapsed from inform to response inform is: 0
+[2024-12-27 01:31:50] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:31:50] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:31:50] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:31:50] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:31:50] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:31:50] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:31:50] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:31:50] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:31:50] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:31:50] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:32:13] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:32:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:32:13] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:32:13] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-27 01:32:13] [ERROR] (client/dhcp_discovery) Wait time elapsed for OFFER!
+[2024-12-27 01:34:42] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:34:42] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:34:42] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:34:42] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:34:42] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:34:42] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:34:42] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:34:42] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:34:42] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:34:42] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:35:53] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:35:53] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:35:53] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:35:53] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:35:53] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:35:53] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:35:53] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:35:53] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:35:53] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:35:53] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:37:17] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:37:17] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:37:17] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:37:17] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:37:17] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:37:17] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:37:17] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:37:17] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:37:17] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:37:17] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:38:12] [INFO] (dhcp_client/create_release) DHCP release packet created!
+[2024-12-27 01:38:12] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:38:12] [INFO] (client/release_ip) Time elapsed from release ip to ack is: 0!
+[2024-12-27 01:38:12] [INFO] (client/release_ip) IP address released successfully!
+[2024-12-27 01:38:31] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 01:38:37] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 01:38:40] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:38:40] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:38:40] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:38:40] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:38:40] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:38:52] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:38:52] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to nak is: 0!
+[2024-12-27 01:38:52] [WARNING] (client/handle_dhcp_offer) NAK received, trying again!
+[2024-12-27 01:40:08] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 01:40:17] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 01:40:22] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 01:40:24] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 01:40:35] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:40:35] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:40:35] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:40:35] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:40:35] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:40:35] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:40:35] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:40:35] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:40:35] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:40:35] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:40:39] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:40:39] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:40:39] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:40:39] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:40:39] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:40:41] [ERROR] (dhcp_options/parse_ip) invalid IP address
+[2024-12-27 01:40:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:40:41] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to nak is: 0!
+[2024-12-27 01:40:41] [WARNING] (client/handle_dhcp_offer) NAK received, trying again!
+[2024-12-27 01:40:56] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 01:41:09] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:41:09] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:41:09] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:41:09] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:41:09] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:41:09] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:41:09] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:41:09] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:41:09] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:41:09] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:41:35] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:41:35] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:41:35] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:41:35] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:41:35] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:41:35] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:41:35] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:41:35] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:41:35] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:41:35] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:42:29] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:42:29] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:42:29] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:42:29] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:42:29] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:42:29] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:42:29] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:42:29] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:42:29] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:42:29] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:42:38] [INFO] (dhcp_client/create_inform) DHCP inform packet created!
+[2024-12-27 01:42:38] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:42:38] [INFO] (client/handle_dhcp_ack) Time elapsed from inform to response inform is: 0
+[2024-12-27 01:43:19] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 01:43:19] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:43:19] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 01:43:19] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 01:43:19] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 01:43:19] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 01:43:19] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:43:19] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 01:43:19] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 01:43:19] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 01:43:38] [INFO] (dhcp_client/create_inform) DHCP inform packet created!
+[2024-12-27 01:43:38] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 01:43:38] [INFO] (client/handle_dhcp_ack) Time elapsed from inform to response inform is: 0
+[2024-12-27 01:47:05] [INFO] (dhcp_client/create_inform) DHCP inform packet created!
+[2024-12-27 01:47:05] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:45:15] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:45:15] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:45:15] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:45:15] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:45:15] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:45:15] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:45:15] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:45:15] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:45:15] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:45:15] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:45:52] [INFO] (dhcp_client/create_release) DHCP release packet created!
+[2024-12-27 15:45:52] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:45:52] [INFO] (client/release_ip) Time elapsed from release ip to ack is: 0!
+[2024-12-27 15:45:52] [INFO] (client/release_ip) IP address released successfully!
+[2024-12-27 15:56:32] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:56:32] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:56:32] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:56:32] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:56:32] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:56:32] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:56:32] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:56:32] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:56:32] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:56:32] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:56:51] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:56:51] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:56:51] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:56:51] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:56:51] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:56:51] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:56:51] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:56:51] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:56:51] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:56:51] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:56:58] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:56:58] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:56:58] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:56:58] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:56:58] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:13] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:13] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to nak is: 0!
+[2024-12-27 15:57:13] [WARNING] (client/handle_dhcp_offer) NAK received, trying again!
+[2024-12-27 15:57:21] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:26] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:27] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:28] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:28] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:29] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:29] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:30] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:30] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:31] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:31] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:32] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:32] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:33] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 15:57:36] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:36] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:36] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:36] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:36] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:36] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:36] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:36] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:36] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:36] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:42] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:42] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:42] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:42] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:42] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:42] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:42] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:42] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:42] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:42] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:43] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:43] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:43] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:43] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:43] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:43] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:43] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:43] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:43] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:43] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:43] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:43] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:43] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:43] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:43] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:43] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:44] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:44] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:44] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:45] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:45] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:45] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:46] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:46] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:46] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:57:47] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:57:47] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:47] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:57:47] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:57:47] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:57:47] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:57:47] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:57:47] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:57:47] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:57:47] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:02] [INFO] (dhcp_client/create_inform) DHCP inform packet created!
+[2024-12-27 15:58:02] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:02] [INFO] (client/handle_dhcp_ack) Time elapsed from inform to response inform is: 0
+[2024-12-27 15:58:29] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:29] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:29] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:29] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:29] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:29] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:29] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:29] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:29] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:29] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:30] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:30] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:31] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:31] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:31] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:32] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:32] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:32] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:40] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:40] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:40] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:40] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:40] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:40] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:40] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:40] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:40] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:40] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:41] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:41] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:42] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:42] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:42] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:42] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:42] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:42] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:42] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:42] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:42] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:42] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:43] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 15:58:43] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 15:58:43] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 15:58:49] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 15:58:49] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:58:49] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 15:58:49] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 15:58:49] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 15:59:22] [ERROR] (dhcp_options/parse_ip) invalid IP address
+[2024-12-27 15:59:22] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 15:59:22] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to nak is: 0!
+[2024-12-27 15:59:22] [WARNING] (client/handle_dhcp_offer) NAK received, trying again!
+[2024-12-27 15:59:34] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 16:00:01] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 16:00:19] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 16:00:23] [ERROR] (client/main) You don't have an IP to fo this!
+[2024-12-27 16:03:05] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 16:03:05] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 16:03:05] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 16:03:05] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 16:03:05] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 16:03:05] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 16:03:05] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 16:03:05] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 16:03:05] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 16:03:05] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 16:06:33] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 16:06:33] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 16:06:33] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 16:06:33] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 16:06:33] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 16:06:33] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 16:06:33] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 16:06:33] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 16:06:33] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 16:06:33] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 16:06:40] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 16:06:40] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 16:06:40] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 16:06:40] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 16:06:40] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 16:06:40] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 16:06:40] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 16:06:40] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 16:06:40] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 16:06:40] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 16:59:41] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 16:59:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 16:59:41] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 16:59:41] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 16:59:41] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 16:59:41] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 16:59:41] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 16:59:41] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 16:59:41] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 16:59:41] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 17:08:20] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 17:08:20] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 17:08:20] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 17:08:20] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 17:08:20] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 17:08:20] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 17:08:20] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 17:08:20] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 17:08:20] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 17:08:20] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 17:16:27] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 17:16:27] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 17:16:27] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 17:16:27] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-27 17:16:27] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-27 17:16:27] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-27 17:16:27] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 17:16:27] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-27 17:16:27] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-27 17:16:27] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2024-12-27 17:17:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 17:17:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 17:17:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 17:17:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-27 17:17:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 17:17:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 17:17:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 17:17:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-27 17:17:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-27 17:17:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-27 17:17:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-27 17:17:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-27 17:17:30] [ERROR] (client/dhcp_discovery) Wait time elapsed for OFFER!
+[2024-12-28 03:14:50] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:14:50] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:14:50] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:14:50] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:14:50] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:14:50] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:14:50] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:14:50] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:14:50] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:14:50] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:14:50] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:14:50] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:14:50] [ERROR] (client/dhcp_discovery) Wait time elapsed for OFFER!
+[2024-12-28 03:15:11] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:15:11] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:15:11] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:15:11] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:15:11] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:15:11] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:15:11] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:15:11] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:15:11] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:15:11] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:15:11] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:15:11] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:15:11] [ERROR] (client/dhcp_discovery) Wait time elapsed for OFFER!
+[2024-12-28 03:16:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:16:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:16:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:16:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:16:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:16:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:16:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:16:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:16:30] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:16:30] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:16:30] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:16:30] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:16:30] [ERROR] (client/dhcp_discovery) Wait time elapsed for OFFER!
+[2024-12-28 03:18:08] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:18:08] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:18:08] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:18:08] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:18:08] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:18:08] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:18:08] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:18:08] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:18:08] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:18:08] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:18:08] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:18:08] [WARNING] (client/dhcp_discovery) Didn't receive OFFER, resending DISCOVER!
+[2024-12-28 03:18:08] [ERROR] (client/dhcp_discovery) Wait time elapsed for OFFER!
+[2024-12-28 03:20:01] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2024-12-28 03:20:01] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:20:01] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2024-12-28 03:20:01] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2024-12-28 03:20:01] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2024-12-28 03:20:01] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2024-12-28 03:20:01] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2024-12-28 03:20:01] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 0!
+[2024-12-28 03:20:01] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2024-12-28 03:20:01] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!
+[2025-01-03 16:09:53] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2025-01-03 16:09:53] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2025-01-03 16:09:53] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2025-01-03 16:10:26] [INFO] (dhcp_client/create_discover) DHCP_DISCOVER packet created!
+[2025-01-03 16:10:26] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2025-01-03 16:10:26] [INFO] (client/dhcp_discovery) DHCP discovery sent!
+[2025-01-03 16:10:26] [INFO] (client/dhcp_discovery) DHCP OFFER received.
+[2025-01-03 16:10:26] [INFO] (client/dhcp_discovery) Time elapsed from discovery to offer is: 0!
+[2025-01-03 16:10:26] [INFO] (dhcp_client/create_request_dynamic) Created request for dynamic IP!
+[2025-01-03 16:10:26] [INFO] (dhcp_client/send_packet) DHCP message sent!
+[2025-01-03 16:10:27] [INFO] (client/handle_dhcp_offer) Time elapsed from request ip to ack is: 1!
+[2025-01-03 16:10:27] [INFO] (client/handle_dhcp_offer) Lease time end set successfully.
+[2025-01-03 16:10:27] [INFO] (client/handle_dhcp_offer) ACK received, address allocated successfully!

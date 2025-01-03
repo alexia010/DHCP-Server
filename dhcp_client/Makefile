@@ -23,3 +23,6 @@ clean:
 	rm -f $(EXECUTABLE) *.o
 
 # all: gcc  queue.c logger.c dhcp_server.c dhcp_options.c main.c -o main -lsqlite3
+
+cleanLog:
+	rm *.txt
