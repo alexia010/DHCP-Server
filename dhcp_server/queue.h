@@ -3,6 +3,8 @@
 
 #include <stdlib.h>
 #include <stdio.h>
+#include <pthread.h>
+
 
 struct node 
 {
@@ -18,6 +20,8 @@ typedef struct
 {
     node *head;
     node *tail;
+
+    pthread_mutex_t mutex;
 }queue;
 
 int queue_is_empty(queue*q);

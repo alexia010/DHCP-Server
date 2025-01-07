@@ -93,11 +93,10 @@ int add_option_request(queue *q, uint8_t id, uint8_t len,const char*data)
 
     switch (id)
     {
-    case SUBNET_MASK:
     case BROADCAST_ADDRESS:
     case SERVER_IDENTIFIER:
         opt->len=0;
-        break;;
+        break;
     case REQUESTED_IP_ADDRESS:
     case DHCP_MESSAGE_TYPE:
         if(len==1 || len == 5)
@@ -125,6 +124,14 @@ int add_option_request(queue *q, uint8_t id, uint8_t len,const char*data)
     case REBINDING_T2_TIME_VALUE:
         memcpy(opt->data,data,len);
         break;
+
+    case SUBNET_MASK:
+        //len = strlen(data);
+        memcpy(opt->data,data,len);
+                break;
+    case DOMAIN_NAME_SERVER:
+        memcpy(opt->data,data,len);
+                break;
 
     case PARAMETER_REQUEST_LIST:
             

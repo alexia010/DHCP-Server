@@ -208,6 +208,9 @@ int add_option_reply(queue*q,uint8_t id,uint8_t len, const char*data)
     switch (id)
     {
         case SUBNET_MASK:
+            //len = strlen(data);
+            memcpy(opt->data,data,len);
+            break;
         case BROADCAST_ADDRESS:
         case REQUESTED_IP_ADDRESS:
         case SERVER_IDENTIFIER:

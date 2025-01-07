@@ -30,6 +30,7 @@ void queue_init(queue *q)
 {
     q->head=NULL;
     q->tail=NULL;
+    pthread_mutex_init(&q->mutex, NULL);
 }
 
 void queue_enqueue(queue*q,void *value)

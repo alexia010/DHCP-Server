@@ -28,6 +28,8 @@ pthread_t thread_pool[THREAD_POOL_SIZE];
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 pthread_cond_t condition_var = PTHREAD_COND_INITIALIZER;
 
+pthread_mutex_t dhcp_mutex = PTHREAD_MUTEX_INITIALIZER;
+
 #define ACTIVE_WHITELIST 0      // bool 
 
 void *handle_connection(void* pclient);
@@ -50,6 +52,10 @@ int main(int argc, char*argv[])
 {
     signal(SIGINT, handle_sigint);
     log_init();
+
+    //new
+    init_ip_cache(&ip_cache_instance);
+    load_cache_from_file(&ip_cache_instance, "cache.txt");
 
     int socketfd;
 
@@ -93,6 +99,8 @@ int main(int argc, char*argv[])
     tv.tv_sec = 5; // 5 sec timeout
     tv.tv_usec = 0;
     setsockopt(socketfd, SOL_SOCKET, SO_RCVTIMEO, &tv, sizeof(tv));
+
+    pthread_mutex_init(&dhcp_mutex, NULL);
 
     dhcp_packet packet_dhcp_received;
     printf("Waiting for DHCP requests...\n");
@@ -157,6 +165,7 @@ int main(int argc, char*argv[])
     for(int i = 0; i < THREAD_POOL_SIZE; i++)
         pthread_join(thread_pool[i], NULL);    // wait for all the threads to close
     
+    pthread_mutex_destroy(&dhcp_mutex);
     pthread_mutex_destroy(&mutex);
     pthread_cond_destroy(&condition_var);
 
@@ -175,6 +184,7 @@ void handle_dhcp_request(server_configs *server, dhcp_packet *packet, network **
 {
     char data[10];
 
+    pthread_mutex_lock(&dhcp_mutex);
     if (packet->header.ciaddr != 0) { // DHCP Renew
         if (renew_ip_address(server, *packet, net, options)) {
             data[0] = DHCP_ACK;
@@ -210,6 +220,8 @@ void handle_dhcp_request(server_configs *server, dhcp_packet *packet, network **
         data[4] = '\0';
         add_option_reply(&(*packet_to_send)->dhcp_options, IP_ADDRESS_LEASE_TIME, 4, data);
     }
+
+    pthread_mutex_unlock(&dhcp_mutex);
 }
 
 void handle_dhcp_request_static(server_configs *server, dhcp_packet *packet, network **net, dhcp_packet **packet_to_send, dhcp_option *options)
@@ -291,23 +303,29 @@ void handle_dhcp_inform(server_configs *server, dhcp_packet *packet, network **n
             case PARAMETER_REQUEST_LIST:
                 if(option->data[0] == DOMAIN_NAME_SERVER)
                 {
-                    char dns_data[1 + (*net)->dns_count * 4];
-                    dns_data[0] = DOMAIN_NAME_SERVER;
+                    char dns_data[(*net)->dns_count * 4];
                     for (int i = 0; i < (*net)->dns_count; i++)
                     {
-                        int val = i * 4 + 1;
+                        int val = i * 4;
                         convert_ip_to_bytes((*net)->dns_server[i], &dns_data[val]);
                         // Convert each DNS server address into 4 bytes
                     }
-                    add_option_reply(&(*packet_to_send)->dhcp_options, PARAMETER_REQUEST_LIST, 1 + (*net)->dns_count * 4, dns_data);
+                    add_option_reply(&(*packet_to_send)->dhcp_options, DOMAIN_NAME_SERVER, (*net)->dns_count * 4, dns_data);
                     break;
                 }
                 else if(option->data[0] == SUBNET_MASK)
                 {
                     char netmask_data[100];
-                    netmask_data[0] = SUBNET_MASK;
-                    convert_ip((*net)->netmask, &netmask_data[1]);
-                    add_option_reply(&(*packet_to_send)->dhcp_options, PARAMETER_REQUEST_LIST, strlen(netmask_data), netmask_data);
+                    uint32_t subnet_mask = (*net)->netmask;
+                    uint32_t inverted_mask = ((subnet_mask & 0xFF000000) >> 24) |
+                                            ((subnet_mask & 0x00FF0000) >> 8) |
+                                            ((subnet_mask & 0x0000FF00) << 8) |
+                                            ((subnet_mask & 0x000000FF) << 24);
+
+                    convert_ip_to_bytes(inverted_mask, &netmask_data[0]);
+
+                    int size = 4;
+                    add_option_reply(&(*packet_to_send)->dhcp_options, SUBNET_MASK, size, netmask_data);
                     break;
                 }
 
@@ -450,8 +468,15 @@ void get_memory_usage()
 
     char line[256];
     while (fgets(line, sizeof(line), f)) {
-        if (strncmp(line, "VmRSS:", 6) == 0) {
-            printf("Memory Usage: %s", line);
+        if (strncmp(line, "VmRSS:", 6) == 0) 
+        {
+            line[strcspn(line, "\n")] = 0;
+
+            char log_msg_buffer[256]; 
+            sprintf(log_msg_buffer, "Memory usage: %s", line);
+            
+            log_msg(INFO, "server/get_memory_usage", log_msg_buffer);
+            // printf("Memory Usage: %s", line);
         }
     }
 

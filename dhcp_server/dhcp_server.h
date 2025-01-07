@@ -14,12 +14,33 @@
 #define RENEWAL_TIME  "1800"
 #define REBINDING_TIME "3000"
 
-#define DB_PATH "/home/larisa/Desktop/gitFinal/DHCP-Server/dhcp_server/config2.db"
+#define DB_PATH "/home/daria/Desktop/proiect_pso_numodific/DHCP-Server/dhcp_server/config2.db"
 
 
 #define MAX_NETWORKS 5
 
 #include <sqlite3.h>
+
+
+//new
+
+typedef struct ip_allocation {
+    uint32_t ip_address;
+    uint8_t mac_address[6];
+    time_t lease_start;
+    time_t lease_end;
+    int is_static; // 1 dacă este static, 0 dacă este dinamic
+    struct ip_allocation *next;
+} ip_allocation;
+
+
+typedef struct {
+    ip_allocation *head;
+    pthread_mutex_t mutex;
+} ip_cache;
+
+
+extern ip_cache ip_cache_instance;
 
 
 
@@ -57,7 +78,7 @@ int initialize_networks(network *n);
 
 address_binding *create_binding(uint32_t ip_address, uint8_t mac[16], int binding_status, bool static_status);
 bool verify_address_binding(uint32_t adresa_ip, queue* bindings);
-uint32_t find_free_ip(network *net);
+uint32_t find_free_ip(network *net, ip_cache* cache);
 dhcp_packet* process_dhcp_discover(server_configs *server, dhcp_packet packet, network **net);
 bool renew_ip_address(server_configs *server, dhcp_packet packet, network **net, dhcp_option *options);
 bool confirm_ip_address(server_configs *server, dhcp_packet packet, network **net);
@@ -74,5 +95,15 @@ void modify_lease_in_database(uint32_t ip, time_t lease_start, time_t lease_end)
 void delete_ip_in_database(uint32_t ip);
 
 bool verify_whitelist(uint8_t chaddr[16]);
+
+//new
+void init_ip_cache(ip_cache *cache);
+void add_ip_allocation(ip_cache *cache, uint32_t ip_address, uint8_t *mac_address, time_t lease_start, time_t lease_end, int is_static);
+void save_cache_to_file(ip_cache *cache, const char *filename);
+void renew_ip_allocation(ip_cache *cache, uint32_t ip_address, time_t new_lease_end);
+void load_cache_from_file(ip_cache *cache, const char *filename);
+int is_ip_in_cache(uint32_t ip_address);
+ip_allocation *find_ip_allocation(ip_cache *cache, uint32_t ip_address);
+void remove_ip_allocation(ip_cache *cache, uint32_t ip_address);
 
 #endif

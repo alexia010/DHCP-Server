@@ -358,12 +358,12 @@ void print_dhcp_packet(const dhcp_packet *packet)
         printf("\n");
         printf("-------------\n");
 
-        if(opt->id == PARAMETER_REQUEST_LIST)
+        if(opt->id == PARAMETER_REQUEST_LIST || DOMAIN_NAME_SERVER || SUBNET_MASK)
         {
-            if(opt->data[0] == DOMAIN_NAME_SERVER)
+            if(opt->id == DOMAIN_NAME_SERVER)
             {
-                int val = 1;
-                while(opt->len > 4)
+                int val = 0;
+                while(opt->len >= 4)
                 {
                     uint32_t ip_address = (opt->data[val]) | (opt->data[val + 1] << 8) | (opt->data[val + 2] << 16) | (opt->data[val + 3] << 24);
                     char str[20];
@@ -379,17 +379,35 @@ void print_dhcp_packet(const dhcp_packet *packet)
                     val = val + 4;
                 }
             }
-            else if(opt->data[0] == SUBNET_MASK)
+            else if(opt->id == SUBNET_MASK)
             {
-                char str[20];
-                printf("SUBNET MASK: ");
-                for (int i = 1; i < opt->len; i++)
+                // char str[20];
+                // printf("SUBNET MASK: ");
+                // int size =  strlen(opt->data);
+                // for (int i = 0; i < size; i++)
+                // {
+                //     if(opt->data[i] != '.')
+                //         printf("%u", opt->data[i] - 48);
+                //     else printf(".");
+                // }
+                // printf("\n");
+
+                int val = 0;
+                while(opt->len >= 4)
                 {
-                    if(opt->data[i] != '.')
-                        printf("%u", opt->data[i] - 48);
-                    else printf(".");
+                    uint32_t ip_address = (opt->data[val]) | (opt->data[val + 1] << 8) | (opt->data[val + 2] << 16) | (opt->data[val + 3] << 24);
+                    char str[20];
+                    sprintf(str, "%u.%u.%u.%u", 
+                            (ip_address & 0xFF), 
+                            (ip_address >> 8) & 0xFF, 
+                            (ip_address >> 16) & 0xFF, 
+                            (ip_address >> 24) & 0xFF);
+
+                    char msg[50];
+                    printf("SUBNET MASK: %s\n\n", str);
+                    opt->len -= 4;
+                    val = val + 4;
                 }
-                printf("\n");
             } 
         }
         
