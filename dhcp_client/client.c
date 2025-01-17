@@ -189,7 +189,7 @@ void init_socket(int *sockfd, struct sockaddr_in *server_addr)
     memset(server_addr, 0, sizeof(*server_addr));
     server_addr->sin_family = AF_INET;
     server_addr->sin_port = htons(DHCP_SERVER_PORT);
-    server_addr->sin_addr.s_addr = htonl(INADDR_ANY);
+    server_addr->sin_addr.s_addr = inet_addr("255.255.255.255");
 
     // Enable broadcast option for the socket
     int broadcastEnable = 1;

@@ -14,8 +14,7 @@
 #define RENEWAL_TIME  "1800"
 #define REBINDING_TIME "3000"
 
-#define DB_PATH "/home/daria/Desktop/proiect_pso_numodific/DHCP-Server/dhcp_server/config2.db"
-
+#define DB_PATH "/home/daria/Desktop/pso/DHCP-Server/dhcp_server/config2.db"
 
 #define MAX_NETWORKS 5
 

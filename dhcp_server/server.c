@@ -20,7 +20,7 @@
 volatile sig_atomic_t running = 1;
 
 #define DHCP_SERVER_PORT 67
-#define DHCP_CLIENT_PORT 68 
+#define DHCP_CLIENT_PORT 68
 #define THREAD_POOL_SIZE 3
 
 //creez un pool_thread
@@ -82,7 +82,7 @@ int main(int argc, char*argv[])
     }
      
     // Configuration option broadcast for socket
-    int broadcastEnable = 0;
+    int broadcastEnable = 1;
     check(setsockopt(socketfd, SOL_SOCKET, SO_BROADCAST, &broadcastEnable, sizeof(broadcastEnable)), "Error at setting broadcast option!");
 
     server_addr.sin_family = AF_INET;
