@@ -1,0 +1,4 @@
+[2025-01-17 22:10:37] [INFO] (dhcp_server/initialize_server) Opened database successfully
+
+[2025-01-17 22:10:37] [INFO] (server/main) Waiting for DHCP request!
+[2025-01-17 22:10:41] [INFO] (server/main) SIGINT received, shutting down...
